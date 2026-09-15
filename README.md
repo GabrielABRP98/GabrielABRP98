@@ -1,4 +1,3 @@
-[README_GITHUB_PERFIL_GABRIEL.md](https://github.com/user-attachments/files/32219944/README_GITHUB_PERFIL_GABRIEL.md)
 # Olá, sou Gabriel Peixoto 👋
 
 ### Desenvolvedor com foco em Dados, Automação e Inteligência Artificial
